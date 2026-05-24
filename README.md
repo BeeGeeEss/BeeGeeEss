@@ -8,7 +8,7 @@
 
 - 👩‍🎓 I'm studying a Diploma of Web Development
 - 💻 I'm working as a Digital Project Manager
-- 📚 I have a background in Psychology, Social Work and Counselling, making the user experience important to me
+- 📚 I have a background in Psychology, Social Work and Counselling which makes the user experience important to me
 
 ## 🧠 Web Development Skills
 
@@ -17,6 +17,7 @@
 - HTML5 (semantic markup)
 - CSS3 (responsive layouts, animations)
 - Markdown
+- React
 - Mobile-first design
 - Interactive UI components
 
@@ -36,6 +37,7 @@
 
 - Python
 - Flask (RESTful APIs)
+- Express
 
 ### 🧪 Development & Tooling
 
@@ -44,3 +46,4 @@
 - Environment configuration & `.env` files
 - PyTesting
 - Azure DevOps - User Stories, Testing
+- Jest
